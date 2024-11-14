@@ -1,2 +1,2 @@
-This is Calculator Project in python.
+This is Calculator Project in python.<br>
 Author:Shanzid Helal Emon
